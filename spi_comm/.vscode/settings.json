@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "spi_comm.h": "c",
+        "stdint.h": "c",
+        "io.h": "c"
+    }
+}
